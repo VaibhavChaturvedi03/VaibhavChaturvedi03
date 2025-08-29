@@ -41,9 +41,9 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
   <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="36"/>
   <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="36"/>
   <img alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="36"/>
-  <img alt="Aptos" src="https://cryptologos.cc/logos/aptos-apt-logo.png" width="36"/>
-  <img alt="Move" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Move_logo.svg" width="36"/>
-</p>
+  <img alt="Aptos" src="https://raw.githubusercontent.com/coinfaucet/assets/master/blockchains/aptos/info/logo.png" width="36"/>
+<img alt="Move" src="https://raw.githubusercontent.com/move-language/move/main/language/documentation/move-logo.png" width="36"/>
+
 
 *Main focus:* **MERN | Java | Ethereum (Solidity) | Aptos (Move) | Kubernetes | DevOps**
 
