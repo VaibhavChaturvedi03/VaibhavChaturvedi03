@@ -16,7 +16,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-chaturvedi-/" target="blank">
+<a href="https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vaibhavchaturvedi3021@gmail.com" target="blank">
