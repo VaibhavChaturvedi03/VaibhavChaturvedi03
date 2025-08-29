@@ -20,7 +20,7 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:vaibhavchaturvedi3021@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-@VaibhavChaturvedi03-gray?logo=github)](https://github.com/VaibhavChaturvedi03)  
 
