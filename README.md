@@ -1,63 +1,85 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Chaturvedi 🚀</h1>
-<h3 align="center">MSIT’28 | MERN Stack Developer | Blockchain Enthusiast | Solidity | Java | Building Scalable Web Apps & Decentralized Applications (dApps)</h3>
+# 👋 Hi, I'm Vaibhav Chaturvedi
+
+**MSIT'28 | MERN Stack Developer | Blockchain Enthusiast | Solidity | Java**
+
+Building Scalable Web Apps & Decentralized Applications (dApps)
 
 ---
 
-### 🌟 About Me
-- 🎓 IT student @ Maharaja Surajmal Institute of Technology (MSIT’28)  
-- 💻 Passionate about **Full Stack Development** (MERN: MongoDB, Express.js, React, Node.js)  
-- 🔗 Experienced in **Web3, Ethereum Smart Contracts, and Blockchain Integrations**  
-- 🚀 Building **decentralized applications, NFT platforms, and wallet-authenticated systems**  
-- 🌱 Currently learning: **Advanced Solidity, AI + Web3 integrations**  
-- 👯 Looking to collaborate on **Hackathons, Web3 & AI projects**  
-- 📫 Reach me: vaibhavchaturvedi3021@gmail.com  
+## ✨ About Me
+
+- 🎓 IT student @ Maharaja Surajmal Institute of Technology (MSIT'28)  
+- 💻 Passionate about **Full-Stack Development** (MERN: MongoDB, Express.js, React, Node.js)  
+- 🔗 Experienced in **Web3, Ethereum Smart Contracts, and Blockchain integrations**  
+- 🛠️ Building decentralized applications, NFT platforms, and wallet-authenticated systems  
+- 🤖 Currently learning: **Advanced Solidity, Aptos + Move, AI + Web3 integrations, Kubernetes**  
+- 🚀 Looking to collaborate on Hackathons, Web3 & AI projects  
+- ✉️ Reach me: **vaibhavchaturvedi3021@gmail.com**  
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:vaibhavchaturvedi3021@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-@VaibhavChaturvedi03-gray?logo=github)](https://github.com/VaibhavChaturvedi03)  
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vaibhavchaturvedi3021@gmail.com" target="blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/VaibhavChaturvedi03" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-</a>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="36"/>
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="36"/>
+  <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="36"/>
+  <img alt="Express.js" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="36"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="36"/>
+  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="36"/>
+  <img alt="Solidity" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" width="36"/>
+  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="36"/>
+  <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="36"/>
+  <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="36"/>
+  <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="36"/>
+  <img alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="36"/>
+  <img alt="Aptos" src="https://cryptologos.cc/logos/aptos-apt-logo.png" width="36"/>
+  <img alt="Move" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Move_logo.svg" width="36"/>
 </p>
 
----
-
-### ⚒️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+*Main focus:* **MERN | Java | Ethereum (Solidity) | Aptos (Move) | Kubernetes | DevOps**
 
 ---
 
+## 🚀 Featured Projects
+
+- **Decentralized Applications (dApps)** — Ethereum + Solidity + React  
+- **NFT Minting Platform** — Blockchain + Smart Contracts + Web3.js  
+- **Justice-Chain** — FIR collection & tamper-proof storage using IPFS + Smart Contracts  
+- **ChainPlay Studio (idea)** — Decentralized AI-enabled game dev & funding platform  
+- **CertiChain** — Web3 certificate issuance & verification system  
 
 ---
 
-### 🚀 Featured Projects
-- 🛠️ **Decentralized Applications (dApps)** — Ethereum + Solidity + React  
-- 🎨 **NFT Minting Platform** — Blockchain + Smart Contracts + Web3.js  
-- 🔐 **Secure Wallet Auth Systems** — Authentication + Web3 integration  
+## 🧩 Small Wins / Highlights
+
+- ✅ Deployed CertiChain smart contract  
+- ✅ Built backend flow: store data on IPFS (Pinata) and record IPFS hash on-chain  
+- ✅ Delivered full-stack demos for hackathons (web3 smart contracts + React frontend)  
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+---
+
+## 🐍 Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/VaibhavChaturvedi03/VaibhavChaturvedi03/main/assets/snake.gif)
+
+---
+
+## 📈 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavChaturvedi03&show_icons=true&theme=dark)
+
+---
+
+
+
