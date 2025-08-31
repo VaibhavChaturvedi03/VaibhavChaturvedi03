@@ -66,13 +66,6 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
 
 ---
 
----
-
-## 🐍 Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/VaibhavChaturvedi03/VaibhavChaturvedi03/main/assets/snake.gif)
-
----
 
 
 
