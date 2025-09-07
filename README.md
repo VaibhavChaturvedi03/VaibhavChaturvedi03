@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Chaturvedi
 
-**MSIT'28 | MERN Stack Developer | Blockchain Enthusiast | Solidity | Move | Java**
+**MERN Stack Developer | Blockchain Enthusiast | Solidity | Move | Java**
 
 Building Scalable Web Apps & Decentralized Applications (dApps)
 
@@ -8,7 +8,7 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
 
 ## ✨ About Me
 
-- 🎓 IT student @ Maharaja Surajmal Institute of Technology (MSIT'28)  
+
 - 💻 Passionate about **Full-Stack Development** (MERN: MongoDB, Express.js, React, Node.js)  
 - 🔗 Experienced in **Web3, Ethereum Smart Contracts, Aptos Blockchain, and Blockchain integrations**  
 - 🛠️ Building decentralized applications, NFT platforms, and wallet-authenticated systems  
