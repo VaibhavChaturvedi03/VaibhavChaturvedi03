@@ -13,7 +13,7 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
 - 🔗 Experienced in **Web3, Ethereum Smart Contracts, Aptos Blockchain, and Blockchain integrations**  
 - 🛠️ Building decentralized applications, NFT platforms, and wallet-authenticated systems  
 - 🤖 Currently learning: **Advanced Solidity, Move, Web3 integrations, Kubernetes**  
-- 🚀 Looking to collaborate on Hackathons, Web3 projects  
+- 🚀 Looking to collaborate on Hackathons,Web3 projects  
 - ✉️ Reach me: **vaibhavchaturvedi3021@gmail.com**  
 
 ---
