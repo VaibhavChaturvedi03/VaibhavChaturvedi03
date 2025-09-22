@@ -10,9 +10,9 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
 
 
 - 💻 Passionate about **Full-Stack Development** (MERN: MongoDB, Express.js, React, Node.js)  
-- 🔗 Experienced in **Web3, Ethereum Smart Contracts, Aptos Blockchain, and Blockchain integrations**  
+- 🔗 Experienced in **Web3, Ethereum Smart Contracts, and Blockchain integrations**  
 - 🛠️ Building decentralized applications, NFT platforms, and wallet-authenticated systems  
-- 🤖 Currently learning: **Advanced Solidity, Move, Web3 integrations, Kubernetes**  
+- 🤖 Currently learning: **Advanced Solidity, Web3 integrations, Go**  
 - 🚀 Looking to collaborate on Hackathons,Web3 projects  
 - ✉️ Reach me: **vaibhavchaturvedi3021@gmail.com**  
 
@@ -44,7 +44,7 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
   <img alt="Move" src="https://avatars.githubusercontent.com/u/112956204?s=200&v=4" width="36"/>
 
 
-*Main focus:* **MERN | Java | Ethereum (Solidity) | Aptos (Move) | Kubernetes | DevOps**
+*Main focus:* **MERN | Java | Ethereum (Solidity) | Go | DevOps**
 
 ---
 
