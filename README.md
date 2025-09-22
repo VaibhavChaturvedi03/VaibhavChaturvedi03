@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Chaturvedi
 
-**MERN Stack Developer | Blockchain Enthusiast | Solidity | Move | Java**
+**MERN Stack Developer | Blockchain Enthusiast | Solidity | Go | Java**
 
 Building Scalable Web Apps & Decentralized Applications (dApps)
 
