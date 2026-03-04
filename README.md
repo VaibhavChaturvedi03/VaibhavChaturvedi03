@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Chaturvedi
 
-**MERN Stack Developer | Solidity | Go | Java**
+**WEB3 MERN Stack Developer**
 
 Building Scalable Web Apps & Decentralized Applications (dApps)
 
@@ -40,7 +40,7 @@ Building Scalable Web Apps & Decentralized Applications (dApps)
   <img alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="36"/>
 
 
-*Main focus:* **MERN | Java | Ethereum (Solidity) | Go | DevOps**
+*Main focus:* **MERN | Ethereum (Solidity) | DevOps**
 
 ---
 
