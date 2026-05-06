@@ -47,4 +47,4 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 
 ---
 
-⭐ From Vaibhav Chaturvedi
+Made with 💙 by Vaibhav Chaturvedi
