@@ -1,52 +1,45 @@
-# 👋 Hi, I'm Vaibhav Chaturvedi
-
-**WEB3 MERN Stack Developer**
-
-Building Scalable Web Apps & Decentralized Applications (dApps)
+# 👋 Hi there, I'm Vaibhav Chaturvedi
 
 ---
 
-## ✨ About Me
-
-
-- 💻 Passionate about **Full-Stack Development** (MERN: MongoDB, Express.js, React, Node.js)  
-- 🔗 Experienced in **Web3, Ethereum Smart Contracts, and Blockchain integrations**  
-- ✉️ Reach me: **vaibhavchaturvedi.work@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333/)
 
 ---
 
-## 🤝 Connect with Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaturvedi-5772b0333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:vaibhavchaturvedi.work@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-@VaibhavChaturvedi03-gray?logo=github)](https://github.com/VaibhavChaturvedi03)  
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="36"/>
-  <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="36"/>
-  <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="36"/>
-  <img alt="Express.js" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="36"/>
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="36"/>
-  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="36"/>
-  <img alt="Solidity" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" width="36"/>
-  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="36"/>
-  <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="36"/>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="36"/>
-  <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="36"/>
-  <img alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="36"/>
-
-
-*Main focus:* **MERN | Ethereum (Solidity) | DevOps**
+I'm a passionate Full Stack & Blockchain Developer focused on building scalable web and mobile applications.  
+Currently exploring advanced backend systems, DevOps, cloud-native technologies, and Web3 development.
 
 ---
 
+## 🛠 Skills
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavChaturvedi03&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaturvedi03&theme=radical" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavChaturvedi03&theme=react-dark"/>
+</p>
 
+---
 
+⭐ From Vaibhav Chaturvedi
