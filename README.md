@@ -20,14 +20,18 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-black?style=flat-square&logo=thunderbird)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
 
 ## 📊 GitHub Stats
 
