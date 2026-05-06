@@ -22,6 +22,7 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
