@@ -37,8 +37,9 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavChaturvedi03&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaturvedi03&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavChaturvedi03&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=VaibhavChaturvedi03&theme=radical" height="170"/>
 </p>
 
 <p align="center">
