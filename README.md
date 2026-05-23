@@ -21,6 +21,7 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
@@ -31,7 +32,6 @@ Currently exploring advanced backend systems, DevOps, cloud-native technologies,
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-black?style=flat-square&logo=thunderbird)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ---
 
