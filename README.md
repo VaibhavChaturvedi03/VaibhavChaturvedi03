@@ -103,6 +103,46 @@ philosophy: "Robust backends, clean architecture, systems that scale."
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6"/>
 
+## 📚 Specializations
+
+> Structured, project-driven work across Blockchain, Systems Architecture, and Applied Engineering.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🔗 Blockchain**
+<br/>
+Solidity, smart contracts & Web3 development
+<br/>
+[Reference →](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Systems Architecture**
+<br/>
+Backend architecture & distributed systems
+<br/>
+[Reference →](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Applied Engineering**
+<br/>
+Advanced implementation patterns
+<br/>
+[Reference →](https://youtube.com/playlist?list=PLKnIA16_Rmva0dRLWEHLznSHKbFD_RJfX)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
