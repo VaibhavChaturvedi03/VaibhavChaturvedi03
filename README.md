@@ -139,7 +139,7 @@ philosophy: "Robust backends, clean architecture, systems that scale."
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaturvedi03&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888" height="175" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaibhavChaturvedi03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavChaturvedi03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" height="175" alt="Top Languages"/>
 </p>
 
 <br/><br/>
