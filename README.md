@@ -65,6 +65,7 @@ philosophy: "Robust backends, clean architecture, systems that scale."
       <h3>💻 Languages</h3>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
       </p>
@@ -137,7 +138,7 @@ philosophy: "Robust backends, clean architecture, systems that scale."
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaturvedi03&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888" height="175" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaibhavChaturvedi03&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaibhavChaturvedi03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" height="175" alt="Top Languages"/>
 </p>
